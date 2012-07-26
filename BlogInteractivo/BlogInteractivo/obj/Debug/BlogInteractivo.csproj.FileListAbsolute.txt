@@ -1,0 +1,5 @@
+C:\Proyectos\BlogInteractivo\BlogInteractivo\bin\BlogInteractivo.dll
+C:\Proyectos\BlogInteractivo\BlogInteractivo\bin\BlogInteractivo.pdb
+C:\Proyectos\BlogInteractivo\BlogInteractivo\obj\Debug\ResolveAssemblyReference.cache
+C:\Proyectos\BlogInteractivo\BlogInteractivo\obj\Debug\BlogInteractivo.dll
+C:\Proyectos\BlogInteractivo\BlogInteractivo\obj\Debug\BlogInteractivo.pdb
