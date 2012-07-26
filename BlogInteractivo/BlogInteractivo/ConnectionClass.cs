@@ -18,10 +18,6 @@ namespace BlogInteractivo
         {
             if (connection == null || connection.State != System.Data.ConnectionState.Open)
             {
-                if (true)
-                {
-                    
-                }
                 string cadenaconexion = "Data Source=URIBE_DELL;Initial Catalog=BLOG_INTERACTIVO;Integrated Security=True";
                 connection = null;
                 string respuesta = string.Empty;
